@@ -1,0 +1,6 @@
+2020-02-26 17:06:04,509(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):13 - pricipal or rate of interst or time is 0
+2020-02-26 17:06:04,512(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):16 - simple interest0.0
+2020-02-26 17:11:33,294(YYYY-MM-DD HH:mm:ss) INFO  Houserent.class(1):10 - Entered into method
+2020-02-26 17:11:33,297(YYYY-MM-DD HH:mm:ss) WARN  Houserent.class(1):14 - area is zero
+2020-02-26 17:11:33,297(YYYY-MM-DD HH:mm:ss) INFO  Houserent.class(1):35 - Rent is
+2020-02-26 17:11:33,298(YYYY-MM-DD HH:mm:ss) DEBUG Houserent.class(1):36 - Total Cost0.0
